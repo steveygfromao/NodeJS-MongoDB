@@ -3,8 +3,9 @@
 ## Introduction
 Connect, create and read from MongoDB using Node.js.  This example uses the mongoDB driver.
 
-# Usage
+Please note that you will need a cluster set up on MongoDB Atlas and copy the uri given which will need to be replaced in the code.
 
+# Usage
 `npm install`
 #
 To list databases in MongoDB server:
