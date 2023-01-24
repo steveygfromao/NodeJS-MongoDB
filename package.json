@@ -1,0 +1,17 @@
+{
+  "name": "mongoexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "list": "nodemon listdatabases.js",
+    "crud": "nodemon createread.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.13.0",
+    "nodemon": "^2.0.20"
+  }
+}
